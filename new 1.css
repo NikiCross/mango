@@ -11,6 +11,9 @@ html {
 		background-color: black 
 }
 
+span {
+	color: white
+}
 body {
     font-family: "Lato", sans-serif;
 }
