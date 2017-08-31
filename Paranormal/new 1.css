@@ -10,11 +10,5 @@ img {
 body {
 		background-color: black; 
 		color: white;
-		text-align: center;
-}
-.text {
-		text-align: center;
-		width: 686px;
-		width: 914px;
-		height: 803px;
+		font-family: Segoe Print;
 }

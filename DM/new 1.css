@@ -8,5 +8,9 @@ img {
 	height: 463px;
 }
 html {
-		background-color: black 
+		background-color: black; 
+		color: white;
+}
+body {
+	font-family: Segoe Print;
 }
