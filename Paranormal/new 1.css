@@ -12,3 +12,8 @@ body {
 		color: white;
 		font-family: Segoe Print;
 }
+#ban {
+		height: auto;
+		width: auto;
+		max-width: 100%;
+}
