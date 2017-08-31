@@ -14,3 +14,8 @@ html {
 body {
 		font-family: Segoe Print;
 }
+#ban{
+		height: auto;
+		width: auto;
+		max-width: 100%;
+}
