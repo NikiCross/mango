@@ -8,5 +8,14 @@ img {
 	height: 463px;
 }
 html {
-		background-color: black 
+		background-color: black; 
+		color: white;
+}
+body {
+	font-family: Segoe Print;
+}
+#ban {
+		height: auto;
+		width: auto;
+		max-width: 100%;
 }

@@ -10,11 +10,10 @@ img {
 body {
 		background-color: black; 
 		color: white;
-		text-align: center;
+		font-family: Segoe Print;
 }
-.text {
-		text-align: center;
-		width: 686px;
-		width: 914px;
-		height: 803px;
+#ban {
+		height: auto;
+		width: auto;
+		max-width: 100%;
 }

@@ -8,16 +8,23 @@ img {
 	height: 350px;
 }
 html {
-		background-color: black 
+		background-color: black; 
+		color: white;
+		
 }
 
 span {
-	color: white
+	color: white;
 }
 body {
-    font-family: "Lato", sans-serif;
+  
+		font-family: Segoe Print;
 }
-
+#ban {
+		height: auto;
+		width: auto;
+		max-width: 100%;
+}
 .sidenav {
     height: 100%;
     width: 0;
